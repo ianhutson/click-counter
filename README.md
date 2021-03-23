@@ -10,4 +10,4 @@ To run:
 * Open `index.html` in your browser
 
 [demo-raw]: http://assets.aaonline.io/fullstack/react/demos/click-counter.zip
-testing
+testing# click-counter
